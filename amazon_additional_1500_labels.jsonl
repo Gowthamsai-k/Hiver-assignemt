@@ -1,0 +1,837 @@
+{"customer_tweet_id": "2562256.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "365184.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "219161.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "2216617.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2734289.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "2849038.0", "intent": "Display Issue"}
+{"customer_tweet_id": "1917072.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "972725.0", "intent": "Refund Request"}
+{"customer_tweet_id": "230124.0", "intent": "Refund Request"}
+{"customer_tweet_id": "983276.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "644750.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "493446.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "416969.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "986364.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2924523.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "1838844.0", "intent": "Refund Request"}
+{"customer_tweet_id": "352802.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2946790.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2205249.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1598668.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "853957.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2683531.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2786280.0", "intent": "Missing Delivery Contact"}
+{"customer_tweet_id": "2619698.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "225016.0", "intent": "Order Item Cancellation Confusion"}
+{"customer_tweet_id": "2646217.0", "intent": "Gift Card Physicality Inquiry"}
+{"customer_tweet_id": "453338.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "802313.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1636500.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1302342.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "666157.0", "intent": "Exchange Policy Confusion"}
+{"customer_tweet_id": "1034740.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2791925.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "474188.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2590353.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "431104.0", "intent": "Courier Complaint"}
+{"customer_tweet_id": "1135149.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2935180.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2562258.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "881082.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "582625.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "231872.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2179065.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "671727.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1458007.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "1366088.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "232363.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1250356.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2950679.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "2302225.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2964104.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2374465.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "35967.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2480167.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "224631.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1367678.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1128029.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2437311.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1307762.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "439308.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "937311.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2018621.0", "intent": "Double Charge Complaint"}
+{"customer_tweet_id": "1572975.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1610350.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "826270.0", "intent": "Price Increase After Reorder"}
+{"customer_tweet_id": "2275850.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "1424264.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "302605.0", "intent": "Refund Request"}
+{"customer_tweet_id": "2382539.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "319345.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1330252.0", "intent": "Refund Discrepancy"}
+{"customer_tweet_id": "651438.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "356688.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "1826202.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "183516.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2808980.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "1006542.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1195149.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "917005.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "1288886.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "124051.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2122289.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1730719.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "1843570.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "1953330.0", "intent": "Recurring Service Failure"}
+{"customer_tweet_id": "1247741.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1059587.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "348498.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1438202.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "313290.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1727873.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1886105.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "225047.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2766948.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2725850.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "315338.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "183191.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "422008.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "179713.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2399409.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2736205.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "2858193.0", "intent": "Exchange Policy Confusion"}
+{"customer_tweet_id": "2346166.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "407906.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2931407.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "284372.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "542175.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "1206949.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "232445.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2320455.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "2159329.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "480307.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1314626.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2698979.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2881234.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1281380.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1036507.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "865809.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "778483.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1103612.0", "intent": "Price Increase After Reorder"}
+{"customer_tweet_id": "10645.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1215497.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "2176474.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "538448.0", "intent": "Refund Discrepancy"}
+{"customer_tweet_id": "1133975.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1412411.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2923563.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "361713.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "11586.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "2921380.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1473755.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "232926.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1381857.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2416801.0", "intent": "Price Discrepancy After Prime Trial"}
+{"customer_tweet_id": "1403518.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1200813.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "571774.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2580454.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2931329.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "309911.0", "intent": "Refund Eligibility Uncertainty"}
+{"customer_tweet_id": "1149689.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "293332.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2467221.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2956977.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2350862.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "2422663.0", "intent": "Double Charge Complaint"}
+{"customer_tweet_id": "2950689.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1912138.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "297897.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2728892.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "480510.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2604942.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "295303.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "782426.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "1339652.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "2577018.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "759805.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "917558.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2898960.0", "intent": "Refund Discrepancy"}
+{"customer_tweet_id": "2599093.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "2875548.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2319529.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "281017.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "327540.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2308110.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2535321.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "529001.0", "intent": "Money Update Request"}
+{"customer_tweet_id": "174548.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "769577.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "322035.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "425506.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1459023.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "1426765.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "2958541.0", "intent": "Refund Request"}
+{"customer_tweet_id": "2829443.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "134920.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "438862.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1411593.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2429401.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "219177.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2282024.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "1602166.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "835487.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "2251890.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "2784489.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "810216.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "1618338.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "231570.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "43276.0", "intent": "Display Issue"}
+{"customer_tweet_id": "439639.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1400604.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "1932372.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2459983.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "886137.0", "intent": "Missing Delivery Contact"}
+{"customer_tweet_id": "22147.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "207542.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "1118655.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "656072.0", "intent": "Refund Request"}
+{"customer_tweet_id": "1916346.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "651719.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2875643.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "306172.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "47841.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2652296.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "684702.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1503844.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "1768927.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2984657.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "183048.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "833617.0", "intent": "Order Item Cancellation Confusion"}
+{"customer_tweet_id": "183358.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "458873.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "790216.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "210488.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1568797.0", "intent": "Refund Request"}
+{"customer_tweet_id": "1118561.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "585742.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "349400.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "832107.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "1953302.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "1043206.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1331874.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "2884823.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "215210.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "1531210.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1416828.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "1424248.0", "intent": "Display Issue"}
+{"customer_tweet_id": "1472692.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1724677.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "553360.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "354669.0", "intent": "Courier Complaint"}
+{"customer_tweet_id": "231907.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "219523.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2800444.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "947689.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1055235.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "998012.0", "intent": "Price Increase After Reorder"}
+{"customer_tweet_id": "832728.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2459219.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "33297.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "985164.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2539596.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1760405.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1170089.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "833614.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "291374.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "44535.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2381766.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "663748.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "2819880.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "229119.0", "intent": "Double Charge Complaint"}
+{"customer_tweet_id": "1217483.0", "intent": "Payment Transfer Request"}
+{"customer_tweet_id": "1239374.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "75839.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "294289.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "130233.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "1722130.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "516664.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2607493.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2485539.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2929547.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "445470.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "493238.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "1628587.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "735674.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "814412.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "1865038.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "1761384.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "522941.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1986441.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1076266.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1368116.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1378717.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "232702.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2790579.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "235147.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "2292286.0", "intent": "Support Staff Misconduct"}
+{"customer_tweet_id": "1346627.0", "intent": "Refund Discrepancy"}
+{"customer_tweet_id": "989847.0", "intent": "Refund Discrepancy"}
+{"customer_tweet_id": "821168.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1325517.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1705415.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "2470969.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1413752.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1622623.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "21858.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "2571767.0", "intent": "Package Smell Complaint"}
+{"customer_tweet_id": "2524384.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "1325091.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1259410.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1956137.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "827127.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "1497307.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "814420.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "509338.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "1862475.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "296740.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "1298989.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "1421235.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1043570.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "757792.0", "intent": "Order Reorder Due to Package Damage"}
+{"customer_tweet_id": "474392.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "2402411.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "1737624.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "129216.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "542191.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1663589.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1163737.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "981170.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "1108748.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "174553.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "182861.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1354479.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "2135529.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "2856646.0", "intent": "Refund Request"}
+{"customer_tweet_id": "714190.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "441799.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1319012.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1429424.0", "intent": "Refund Request"}
+{"customer_tweet_id": "2542954.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2371344.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1120364.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "766176.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "1239534.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "1732592.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "785134.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2766425.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "356726.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "103062.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "426681.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "480458.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1005157.0", "intent": "Replacement Process Confusion"}
+{"customer_tweet_id": "2969429.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1239308.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2849062.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "357381.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "1401491.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "823164.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1771689.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1278913.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "281189.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1398081.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "126342.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1682697.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "2151945.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "665471.0", "intent": "Support Staff Misconduct"}
+{"customer_tweet_id": "2638472.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "1201249.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "2395803.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "594566.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "1824717.0", "intent": "Account Closure Confusion"}
+{"customer_tweet_id": "64193.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "1279005.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2568107.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "423239.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2718494.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1037048.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "120232.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "133789.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2531368.0", "intent": "Order Item Cancellation Confusion"}
+{"customer_tweet_id": "815532.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1191725.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1041676.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "603196.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "471540.0", "intent": "Refund Discrepancy"}
+{"customer_tweet_id": "236646.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "897525.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "348230.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "962170.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2946845.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "2394973.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "17641.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "868107.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "543837.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1707046.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "155121.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2292107.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2460312.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1060472.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "317432.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "1222990.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2265448.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1636630.0", "intent": "Replacement Process Confusion"}
+{"customer_tweet_id": "1690814.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "686705.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "2874019.0", "intent": "Display Issue"}
+{"customer_tweet_id": "2791917.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "199231.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1137388.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1557671.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "970251.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "490635.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "350253.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "959314.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "280420.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "264447.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "120161.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "497280.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1240432.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2449711.0", "intent": "Refund Request"}
+{"customer_tweet_id": "1118586.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "1346630.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "226646.0", "intent": "Courier Complaint"}
+{"customer_tweet_id": "227356.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "1263051.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2103579.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2987380.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "1125059.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2384577.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1165635.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1273029.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1288880.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1390734.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "720766.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1735486.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2298698.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2533877.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2814446.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2619683.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "2613225.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "650079.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "431229.0", "intent": "Courier Complaint"}
+{"customer_tweet_id": "2625966.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "603954.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "276139.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "717663.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1391546.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "485195.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1107268.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "34485.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "2609223.0", "intent": "Price Increase After Reorder"}
+{"customer_tweet_id": "1540975.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "911203.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2926334.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "1768285.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "523381.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1610957.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "180594.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "432272.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "941414.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "644761.0", "intent": "Refund Request"}
+{"customer_tweet_id": "2759730.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "98581.0", "intent": "Courier Complaint"}
+{"customer_tweet_id": "1035989.0", "intent": "Display Issue"}
+{"customer_tweet_id": "1123643.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2611581.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "472400.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "1648139.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "2679495.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2230345.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2257291.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "1653470.0", "intent": "Order Item Cancellation Confusion"}
+{"customer_tweet_id": "300497.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "1041188.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "460018.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "273145.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "967242.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2318981.0", "intent": "Double Charge Complaint"}
+{"customer_tweet_id": "2663011.0", "intent": "Money Update Request"}
+{"customer_tweet_id": "2166091.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2795402.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2166586.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "698747.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "334004.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2459139.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2662989.0", "intent": "Display Issue"}
+{"customer_tweet_id": "1106551.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1494810.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "866034.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "215233.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1200593.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "1716730.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2462165.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "218985.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1578399.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2467202.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "218953.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "1669403.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1207952.0", "intent": "Support Staff Misconduct"}
+{"customer_tweet_id": "1075278.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1513355.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1602175.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1596970.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "206160.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "784378.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "2721682.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2011913.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1104442.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "191583.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "125302.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "462505.0", "intent": "Courier Complaint"}
+{"customer_tweet_id": "1364675.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "210278.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1483985.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "2909090.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "2166070.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1484811.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "990368.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "695120.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "843174.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "801647.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "480362.0", "intent": "Exchange Policy Confusion"}
+{"customer_tweet_id": "2245218.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "2371308.0", "intent": "Refund Request"}
+{"customer_tweet_id": "1148696.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1076374.0", "intent": "Support Staff Misconduct"}
+{"customer_tweet_id": "1112580.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2142942.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "142877.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "105137.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2609282.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "182804.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2393577.0", "intent": "Missing Delivery Contact"}
+{"customer_tweet_id": "676826.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "320348.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1332200.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2512726.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "1558916.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "1561925.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "377032.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "1038870.0", "intent": "Money Update Request"}
+{"customer_tweet_id": "535054.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2889371.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "2652347.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "21397.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1990142.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "128005.0", "intent": "Refund Request"}
+{"customer_tweet_id": "1387699.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "1245380.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1245955.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2565504.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "388467.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2895987.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2611523.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1285483.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1410715.0", "intent": "Courier Complaint"}
+{"customer_tweet_id": "579848.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "2795310.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2522247.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "1695868.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "13888.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "91339.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2611566.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2208508.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2374505.0", "intent": "Order Reorder Due to Package Damage"}
+{"customer_tweet_id": "30028.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1778523.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1319318.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1147868.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2280810.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "176371.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "897620.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "353201.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "2474898.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "128009.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1693640.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "868658.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "382331.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2292196.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "990222.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "752380.0", "intent": "Account Closure Confusion"}
+{"customer_tweet_id": "446135.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2536343.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1357698.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "2456095.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "476124.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "811609.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1772701.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1319033.0", "intent": "Account Closure Confusion"}
+{"customer_tweet_id": "355343.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "1310278.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2900972.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2745897.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "158622.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "1550247.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "420280.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "36507.0", "intent": "Price Discrepancy After Prime Trial"}
+{"customer_tweet_id": "2119303.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1719163.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2679319.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "450778.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "179122.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "147313.0", "intent": "Price Increase After Reorder"}
+{"customer_tweet_id": "1469940.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1377734.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2296043.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "573996.0", "intent": "Order Item Cancellation Confusion"}
+{"customer_tweet_id": "2568126.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "413013.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2321625.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1554369.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2301610.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "490436.0", "intent": "Refund Request"}
+{"customer_tweet_id": "1266470.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "272647.0", "intent": "Payment Transfer Request"}
+{"customer_tweet_id": "2884195.0", "intent": "Price Increase After Reorder"}
+{"customer_tweet_id": "108162.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "205060.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1568789.0", "intent": "Urgent Formula Shortage Concern"}
+{"customer_tweet_id": "450706.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "231844.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "873760.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "1722149.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "1603813.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "287894.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2733991.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "379573.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "206124.0", "intent": "Refund Request"}
+{"customer_tweet_id": "1108180.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "365625.0", "intent": "Courier Complaint"}
+{"customer_tweet_id": "215158.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2962639.0", "intent": "Exchange Policy Confusion"}
+{"customer_tweet_id": "1185026.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "974814.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1245790.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1723414.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1565853.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2602243.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "74662.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2397081.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "830525.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "812425.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "755125.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "926298.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "1420072.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "163576.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "1115765.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1129356.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "278980.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "651458.0", "intent": "Missing Delivery Contact"}
+{"customer_tweet_id": "1727460.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2793002.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2371330.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2834292.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "235675.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2290544.0", "intent": "Price Increase After Reorder"}
+{"customer_tweet_id": "1404766.0", "intent": "Money Update Request"}
+{"customer_tweet_id": "995455.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "951847.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "1673657.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2290054.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "448222.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "525618.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "436353.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "162022.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "175377.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "440262.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "210384.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "93471.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2122305.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "409347.0", "intent": "Refund Request"}
+{"customer_tweet_id": "323331.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "2391260.0", "intent": "Support Staff Misconduct"}
+{"customer_tweet_id": "284793.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2980993.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "2551995.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "250670.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1127265.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2961759.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "973127.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "2936644.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "1378486.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1293699.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "616960.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "912903.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "965144.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1225764.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1557670.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2673154.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "394919.0", "intent": "Display Issue"}
+{"customer_tweet_id": "23218.0", "intent": "Refund Request"}
+{"customer_tweet_id": "2463073.0", "intent": "Courier Complaint"}
+{"customer_tweet_id": "650108.0", "intent": "Double Charge Complaint"}
+{"customer_tweet_id": "1953442.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1391139.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "276146.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2957040.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "295331.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2664637.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "1201298.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2954412.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "74738.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "361318.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "1386894.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1652965.0", "intent": "Courier Complaint"}
+{"customer_tweet_id": "2084578.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1170028.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2734252.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2290545.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "478517.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2290572.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2542959.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "582650.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "555336.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1122315.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1344480.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "735051.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1121796.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "1057353.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2935894.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1311445.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1814095.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2483749.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "2349518.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "561710.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "232818.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2330869.0", "intent": "Refund Discrepancy"}
+{"customer_tweet_id": "255033.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1199464.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "2102665.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "27830.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "26880.0", "intent": "Double Charge Complaint"}
+{"customer_tweet_id": "923734.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "588663.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1191696.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1190172.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "811615.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2487004.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "126085.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1144144.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2380875.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2375340.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "472286.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "450753.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1604518.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1738961.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2352253.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "26967.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1762319.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "660351.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "2377234.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "2956049.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "1499851.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "947190.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "1600423.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2771728.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2392705.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1257469.0", "intent": "Product Packaging Concern"}
+{"customer_tweet_id": "2540378.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2052279.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "1495262.0", "intent": "Price Increase After Reorder"}
+{"customer_tweet_id": "1826070.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "781624.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "1105778.0", "intent": "Refund Request"}
+{"customer_tweet_id": "780579.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1350069.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "512381.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "837518.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "396904.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2766934.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "665163.0", "intent": "Replacement Process Confusion"}
+{"customer_tweet_id": "2269180.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "2499122.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "1672060.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2925494.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "535700.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1749452.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2319003.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "460036.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "698714.0", "intent": "Order Reorder Due to Package Damage"}
+{"customer_tweet_id": "1021613.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2795300.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "1338703.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1585316.0", "intent": "Exchange Policy Confusion"}
+{"customer_tweet_id": "444246.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "2480951.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1193945.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2475942.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1590595.0", "intent": "Product Malfunction"}
+{"customer_tweet_id": "2103021.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "394423.0", "intent": "Account Closure Confusion"}
+{"customer_tweet_id": "990990.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1489791.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1043173.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "144220.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2319742.0", "intent": "Delivery Delay"}
+{"customer_tweet_id": "833645.0", "intent": "Refund Request"}
+{"customer_tweet_id": "2840123.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1022771.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "1511982.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "716583.0", "intent": "Prime Delivery Guarantee Failure"}
+{"customer_tweet_id": "131755.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "448648.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "134929.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1474662.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "191942.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "2115651.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2492198.0", "intent": "Unresolved Complaint"}
+{"customer_tweet_id": "315051.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "231716.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "2809821.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1362497.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "264761.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2260624.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "550512.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "530022.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "2141978.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "746809.0", "intent": "Delivery Contact Confusion"}
+{"customer_tweet_id": "2126677.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "1271870.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "83443.0", "intent": "Replacement Process Confusion"}
+{"customer_tweet_id": "872675.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "1168474.0", "intent": "Positive Feedback"}
+{"customer_tweet_id": "686656.0", "intent": "Replacement Process Confusion"}
+{"customer_tweet_id": "1327052.0", "intent": "Customer Care Ineffectiveness"}
+{"customer_tweet_id": "2273181.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "1786069.0", "intent": "Price Inquiry"}
+{"customer_tweet_id": "1937586.0", "intent": "Payment Discrepancy"}
+{"customer_tweet_id": "1277034.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2488903.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "972733.0", "intent": "Account Closure Confusion"}
+{"customer_tweet_id": "419578.0", "intent": "Courier Unethical Behavior"}
+{"customer_tweet_id": "234828.0", "intent": "Double Charge Complaint"}
+{"customer_tweet_id": "230668.0", "intent": "Order Not Found"}
+{"customer_tweet_id": "784723.0", "intent": "Password Reset Failure"}
+{"customer_tweet_id": "855960.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2555098.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "1665245.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2379669.0", "intent": "Support Staff Misconduct"}
+{"customer_tweet_id": "980117.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2390477.0", "intent": "Refund Discrepancy"}
+{"customer_tweet_id": "1295012.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2933523.0", "intent": "Delivery Report Issue"}
+{"customer_tweet_id": "1755942.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "256710.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "264680.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "351905.0", "intent": "Support Staff Misconduct"}
+{"customer_tweet_id": "2976481.0", "intent": "Refund Eligibility Uncertainty"}
+{"customer_tweet_id": "2765015.0", "intent": "Unsatisfactory Service Experience"}
+{"customer_tweet_id": "2447407.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "2930675.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "783793.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "1668843.0", "intent": "Delivery Status Confusion"}
+{"customer_tweet_id": "2599094.0", "intent": "Non-Informative"}
+{"customer_tweet_id": "887970.0", "intent": "Delivery Status Misrepresentation"}
+{"customer_tweet_id": "282522.0", "intent": "Refund Processing Delay"}
+{"customer_tweet_id": "674257.0", "intent": "Delivery Delay"}
