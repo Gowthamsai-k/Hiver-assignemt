@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Non-Informative",
+    "definition": "A message containing no meaningful customer-support request, problem, or actionable information."
+  },
+  {
+    "name": "Delivery Delay",
+    "definition": "Customer reports repeated delays in package delivery"
+  },
+  {
+    "name": "Package Smell Complaint",
+    "definition": "Customer reports a package smelling strongly of smoke or other unusual odors"
+  },
+  {
+    "name": "Courier Unethical Behavior",
+    "definition": "Customer reports unethical behavior by courier partners"
+  },
+  {
+    "name": "Delivery Report Issue",
+    "definition": "Customer reports issues with delivery confirmation reports"
+  },
+  {
+    "name": "Customer Care Ineffectiveness",
+    "definition": "Customer reports that customer care has not resolved their issue"
+  },
+  {
+    "name": "Money Update Request",
+    "definition": "Customer requests updates on money related to fraud or payment issues"
+  },
+  {
+    "name": "Price Increase After Reorder",
+    "definition": "Customer reports being asked to reorder at an increased price"
+  },
+  {
+    "name": "Missing Delivery Contact",
+    "definition": "Customer requests delivery contact information from courier"
+  },
+  {
+    "name": "Unresolved Complaint",
+    "definition": "Customer reports that their issue has not been resolved despite previous efforts"
+  },
+  {
+    "name": "Refund Request",
+    "definition": "Customer requests immediate refund for fraudulent or unauthorized transactions"
+  },
+  {
+    "name": "Payment Transfer Request",
+    "definition": "Customer requests to transfer funds from Amazon Pay to a bank account"
+  },
+  {
+    "name": "Delivery Status Confusion",
+    "definition": "Customer reports confusion about delivery status or expectations"
+  },
+  {
+    "name": "Payment Discrepancy",
+    "definition": "Customer reports discrepancies in payment charges or billing, such as being charged multiple times for the same order or incorrect pricing."
+  },
+  {
+    "name": "Positive Feedback",
+    "definition": "Customer expresses satisfaction with service or product, indicating no issue."
+  },
+  {
+    "name": "Order Not Found",
+    "definition": "Customer reports inability to locate an order despite having the order number or other identifying information."
+  },
+  {
+    "name": "Exchange Policy Confusion",
+    "definition": "Customer reports confusion or conflict between exchange policies and stated policies, such as being told they can only replace with same size despite extended return window."
+  },
+  {
+    "name": "Refund Processing Delay",
+    "definition": "Customer reports that refunds are not being processed despite having a valid refund request or order."
+  },
+  {
+    "name": "Courier Complaint",
+    "definition": "Customer reports issues with courier partners, including delivery problems, unethical behavior, or communication issues."
+  },
+  {
+    "name": "Price Inquiry",
+    "definition": "Customer asks about current pricing for products or services"
+  },
+  {
+    "name": "Password Reset Failure",
+    "definition": "Customer reports inability to reset password due to email address issues"
+  },
+  {
+    "name": "Refund Discrepancy",
+    "definition": "Customer reports discrepancies in refund amounts or processing despite valid refund requests."
+  },
+  {
+    "name": "Gift Card Physicality Inquiry",
+    "definition": "Customer asks about the physical form of reloadable gift cards"
+  },
+  {
+    "name": "Recurring Service Failure",
+    "definition": "Customer reports repeated failures of a service despite previous attempts to resolve the issue"
+  },
+  {
+    "name": "Unsatisfactory Service Experience",
+    "definition": "Customer expresses strong dissatisfaction with Amazon's service quality, often with negative language and criticism of support effectiveness."
+  },
+  {
+    "name": "Delivery Contact Confusion",
+    "definition": "Customer reports confusion about which delivery contact person or household member is responsible for receiving the package."
+  },
+  {
+    "name": "Replacement Process Confusion",
+    "definition": "Customer reports confusion about the steps required to initiate a replacement process or access replacement complaint links."
+  },
+  {
+    "name": "Delivery Status Misrepresentation",
+    "definition": "Customer reports that delivery status information is inaccurate or misleading, such as showing delivered when package is not received."
+  },
+  {
+    "name": "Refund Eligibility Uncertainty",
+    "definition": "Customer reports uncertainty about whether they are eligible for a refund after a purchase, especially when they were unaware of charges."
+  },
+  {
+    "name": "Product Malfunction",
+    "definition": "Customer reports a product malfunction or technical issue that requires immediate resolution."
+  },
+  {
+    "name": "Support Staff Misconduct",
+    "definition": "Customer reports that support staff are engaging in dishonest or unethical behavior, such as lying to customers."
+  },
+  {
+    "name": "Double Charge Complaint",
+    "definition": "Customer reports being charged multiple times for the same order or product, leading to financial discrepancies."
+  },
+  {
+    "name": "Display Issue",
+    "definition": "Customer reports issues with display settings or visual elements on their device that require immediate resolution."
+  },
+  {
+    "name": "Prime Delivery Guarantee Failure",
+    "definition": "Customer reports that Prime delivery guarantees are not being met, leading to repeated missed delivery windows despite Prime membership."
+  },
+  {
+    "name": "Price Discrepancy After Prime Trial",
+    "definition": "Customer reports discrepancies in pricing after Prime student trial, such as unexpected charges despite trial being free."
+  },
+  {
+    "name": "Order Reorder Due to Package Damage",
+    "definition": "Customer reports that a package was damaged, leading to the need to reorder the product."
+  },
+  {
+    "name": "Urgent Formula Shortage Concern",
+    "definition": "Customer expresses urgent need for a specific product (e.g., infant formula) due to impending shortage, often with emotional distress."
+  },
+  {
+    "name": "Account Closure Confusion",
+    "definition": "Customer reports confusion about account closure or previous account actions when they believe they are a new customer."
+  },
+  {
+    "name": "Product Packaging Concern",
+    "definition": "Customer expresses dissatisfaction with packaging quality for high-value products, indicating potential risks or concerns about product safety or delivery."
+  },
+  {
+    "name": "Order Item Cancellation Confusion",
+    "definition": "Customer reports confusion about the impact of canceling a single item within an order on delivery charges, particularly regarding free delivery thresholds."
+  }
+]
